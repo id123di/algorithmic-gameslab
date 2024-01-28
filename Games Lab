@@ -1,0 +1,63 @@
+<html>
+<title>Games lab 1</title>
+<body style="font-family:sans-serif">
+    <header style="background:orange">
+        <img src="https://mars.algoritmika.org/uploads/2020/10/Frame%204_0_1603385959.svg"height="30pixels" width="30pixels">
+        <a href="https://translations-algo.github.io/gameLab.html#games">What kind of games do we make?</a>
+        <a href="https://translations-algo.github.io/gameLab.html#price">Price list</a>
+        
+
+    </header>
+    <main style="background:lightgray">
+        <p style="text-align:center; font-size:50px"><b>Games lab</b></h2>
+        <p style="text-align:center; font-size:40px"><b>Game development studio</b></h1>
+        <img src="https://mars.algoritmika.org/uploads/2020/10/Vector_0_1603390263.png" height="400pixels" width="585pixels">
+        <h1>We work in different genres</h1>
+        <p style="font-size:20px">Do you want to make a game according to your scenario?<br>
+Do you already have a game that needs to be finalized for mobile devices or for sale in another country?<br>
+You can order the development or revision of the game from us.<br>
+We work in a variety of genres: shooters, quests, logic and speed games.<br>
+We also create games of mixed genres, games that develop useful skills: attention, memory, thinking.</p>
+<img src="https://mars.algoritmika.org/uploads/2020/10/maps-and-location_0_1603391752.png"height="90pixels" width="90pixels">
+<img src="https://mars.algoritmika.org/uploads/2020/10/shooter_0_1603391752.png"height="90pixels" width="90pixels">
+<img src="https://mars.algoritmika.org/uploads/2020/10/tetris_0_1603391752.png"height="90pixels" width="90pixels">
+
+        <h1>Our offer</h1>
+    <table style="border:1px solid blue; background:orange; font-size:20px">
+        <tr>
+            <td style="border:1px solid blue;">Type of work</td>
+            <td style="border:1px solid blue;">Details</td>
+            <td style="border:1px solid blue;">Price</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Porting</td>
+            <td style="border:1px solid blue;">Destop, Android, iOS</td>
+            <td style="border:1px solid blue;">from 700 dollars</td>
+        </tr>
+        <tr>
+        <td style="border:1px solid blue;">Localization</td>
+       <td style="border:1px solid blue;">Translation: texts,
+voices, graphics</td>
+       <td style="border:1px solid blue;">from 700 dollars</td>
+       </tr>
+       <tr>
+       <td style="border:1px solid blue;">Content
+making</td>
+       <td style="border:1px solid blue;">Sound, music,
+3D, 2D graphics</td>
+       <td style="border:1px solid blue;">from 700 dollars/hr</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Turnkey game</td>
+       <td style="border:1px solid blue;">Discussion plot
+with a screenwriter</td>
+       <td style="border:1px solid blue;">Negotiable</td>
+    </table>
+    </main>
+    <footer style="background:orange">
+        <p>Address: Bilisht-Albania</p>
+        <p>Tel: 0681234567
+
+    </footer>
+</body>
+</html>
